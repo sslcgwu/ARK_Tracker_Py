@@ -4,7 +4,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Quick summary
+* Python code to track ARK funds investment holdings.
 * Version
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
