@@ -1,0 +1,2 @@
+Make Conda commands available for selected env
+https://stackoverflow.com/questions/61986052/visual-studio-code-terminal-doesnt-activate-conda-environment
